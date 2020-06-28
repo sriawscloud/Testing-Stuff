@@ -1,1 +1,5 @@
 Checking Merge Conflict
+
+edited in Test3.txt
+
+
