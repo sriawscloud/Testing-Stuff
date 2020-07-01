@@ -2,3 +2,7 @@ Testing and pushing the branch
 
 The file is modified
 
+Updating and pushing it with new branch
+
+The branch is created and file is edited
+
