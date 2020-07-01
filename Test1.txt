@@ -1,8 +1,16 @@
+This is file is edited after pushing the branch4 and edited this file 
+
 Testing and pushing the branch
 
 The file is modified
 
+
 Updating and pushing it with new branch
 
 The branch is created and file is edited
+
+Testing for Merge Conflicts
+
+
+
 
