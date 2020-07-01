@@ -1,4 +1,10 @@
+This is file is edited after pushing the branch4 and edited this file 
+
 Testing and pushing the branch
 
 The file is modified
+
+Testing for Merge Conflicts
+
+
 
